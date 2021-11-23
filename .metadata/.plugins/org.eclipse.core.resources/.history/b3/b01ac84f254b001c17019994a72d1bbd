@@ -1,0 +1,5 @@
+package com.tienda.repositories;
+
+public interface IUsuarioDAO {
+
+}
